@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "website",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello!\nI am Nikhilla, a recent graduate from the MA International & Development Economics program at Yale University.\nOriginally I am from Chennai, India. Prior to my master’s, I worked with the Center for Effective Governance of Indian States (CEGIS)- a not for profit for over a year. At CEGIS I was a part of the team working in partnership with the state government of Tamil Nadu. My role was primarily involved with the School Education Department to assist them achieve grade level learning outcomes for students through the lens of governance. I worked on furthering and habituating data use by dissemination of data in the right form to the stakeholders in the system.\nI hold a B.A. (Hons) in Liberal Arts & Humanities, major in Economics from OP Jindal Global University, India. My research interests include women and early childhood development, education and health. I am looking for opportunities in the policy and research space.\n\n#Here is a sample of how you can write codes in R:\n  \n  1 + 1 \n\n[1] 2"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "As a part of IDE’s core offering titled “Advanced Economic Development”\nTitle: Impact of Intra-household resource allocation on learning outcomes of students in Rural Tamil Nadu\nEmpirical Strategy: Instrumental Variable Approach\nData: EGC-CMF Tamil Nadu Socioeconomic Mobility Survey (TNSMS)\nSoftware used for analysis: STATA\nReplication codes available here"
+  },
+  {
+    "objectID": "research.html#capstone-project",
+    "href": "research.html#capstone-project",
+    "title": "Research Projects",
+    "section": "",
+    "text": "As a part of IDE’s core offering titled “Advanced Economic Development”\nTitle: Impact of Intra-household resource allocation on learning outcomes of students in Rural Tamil Nadu\nEmpirical Strategy: Instrumental Variable Approach\nData: EGC-CMF Tamil Nadu Socioeconomic Mobility Survey (TNSMS)\nSoftware used for analysis: STATA\nReplication codes available here"
+  },
+  {
+    "objectID": "research.html#replication-project",
+    "href": "research.html#replication-project",
+    "title": "Research Projects",
+    "section": "Replication Project",
+    "text": "Replication Project"
+  },
+  {
+    "objectID": "research.html#multivariate-statistics-analysis",
+    "href": "research.html#multivariate-statistics-analysis",
+    "title": "Research Projects",
+    "section": "Multivariate Statistics Analysis",
+    "text": "Multivariate Statistics Analysis"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Please reach out to me at: nikhilla.bhuvanasundar@aya.yale.edu"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "You can download from latest (July 2024) CV from here."
   }
 ]
