@@ -1,0 +1,19 @@
+---
+title: "Research Projects"
+---
+
+## Capstone Project
+
+- As a part of IDE's core offering titled "Advanced Economic Development"
+- Title: Impact of Intra-household resource allocation on learning outcomes of students in Rural Tamil Nadu
+- Empirical Strategy: Instrumental Variable Approach
+- Data: EGC-CMF Tamil Nadu Socioeconomic Mobility Survey (TNSMS)
+- Software used for analysis: STATA
+- Replication codes available here
+
+## Replication Project
+
+
+
+
+## Multivariate Statistics Analysis

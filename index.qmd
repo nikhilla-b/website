@@ -1,0 +1,32 @@
+---
+title: "About Me"
+image: mypic.jpg
+resources: cv.pdf
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: Email
+      icon: envelope
+      href: mailto:nikhilla.bhuvanasundar@yale.edu
+    - text: CV
+      icon: file-text
+      href: cv.pdf
+---
+
+Hello!
+
+I am Nikhilla, a recent graduate from the MA International & Development Economics program at Yale University.
+
+Originally I am from Chennai, India. Prior to my master's, I worked with the Center for Effective Governance of Indian States (CEGIS)- a not for profit for over a year. At CEGIS I was a part of the team working in partnership with the state government of Tamil Nadu. My role was primarily involved with the School Education Department to assist them achieve grade level learning outcomes for students through the lens of governance. I worked on furthering and habituating data use by dissemination of data in the right form to the stakeholders in the system.
+
+I hold a B.A. (Hons) in Liberal Arts & Humanities, major in Economics from OP Jindal Global University, India. My research interests include women and early childhood development, education and health. 
+I am looking for opportunities in the policy and research space.
+
+
+```{r}
+#Here is a sample of how you can write codes in R:
+  
+  1 + 1 
+```
